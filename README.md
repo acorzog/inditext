@@ -77,6 +77,10 @@ It is unlikely that a user will reach this page looking for a flight after the l
 
 ### **Attachments**
 
+![Screenshot 2023-04-25 at 5 25 36 PM](https://user-images.githubusercontent.com/41344891/234425022-0b599e18-bf4e-4433-95fc-8455cb94af89.png)
+
+https://user-images.githubusercontent.com/41344891/234425458-6d1b27b9-d883-4a19-b296-c3e3bb1b93c7.mp4
+
 
 <br />
 
