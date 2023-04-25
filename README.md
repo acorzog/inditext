@@ -5,7 +5,7 @@ Este repositorio contiene los 3 Ejercicios requeridos como parte de la Prueba t√
 ## Instalaci√≥n
 
 1. Clonar el repositorio
-    `git clone`
+    `git clone https://github.com/acorzog/inditextTest.git`
 
 2. Ubicarse en la carpeta Automation_Test y correr npm install para instalar todas las dependencias
     `npm install`
